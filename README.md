@@ -1,6 +1,6 @@
 # Todo List
 <br>
-![TDL2](https://user-images.githubusercontent.com/56324622/221329384-1fc31960-e3c3-4c4b-ab26-0fd03b6a7183.png)
+https://github.com/JoaoClemer/to-do-list-angular-ts/issues/1#issue-1599484818
 <br>
 Começando meus estudos com Angular e TypeScript, desenvolvi um App de lista de tarefas.
 Na aplicação é possivel, adicionar, remover e marcar itens como concluídos.
