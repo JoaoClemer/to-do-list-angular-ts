@@ -10,7 +10,7 @@ Na aplicação é possivel adicionar, remover e marcar itens como concluídos.
 
 ![TDL3](https://user-images.githubusercontent.com/56324622/221329417-9c1aa2b5-eb12-4274-a440-e516ac99ef70.png)
 
-<br>
+<br> 
 
 
 
